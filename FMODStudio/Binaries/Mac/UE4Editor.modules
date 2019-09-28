@@ -1,0 +1,8 @@
+{
+	"BuildId": "e485fb8d-e4bd-419e-95e4-69f7ab620f93",
+	"Modules": 
+	{
+		"FMODStudio": "UE4Editor-FMODStudio.dylib",
+		"FMODStudioEditor": "UE4Editor-FMODStudioEditor.dylib"
+	}
+}
