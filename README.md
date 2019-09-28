@@ -13,3 +13,8 @@ either in the official UE4 plugin release, or else the programmers API download.
 
 For more information about the FMOD integration, online documentation is available at
 http://www.fmod.org/documentation/#content/generated/engine_ue4/overview.html
+
+Purpose of the Forked Repository
+--------------------------------
+This repository is setup to be used by Numbskull Studios and include all library files required for both Windows and Mac platforms.
+
